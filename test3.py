@@ -1,0 +1,5 @@
+x= input("enter a value")
+i = int(x)
+a = input("enter a value")
+s = str(a)
+l = list(a)
