@@ -1,5 +1,5 @@
-x= input("enter a value")
+x= input("please enter a value  ")
 i = int(x)
-a = input("enter a value")
+a = input("please enter a value")
 s = str(a)
 l = list(a)
